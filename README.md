@@ -4,10 +4,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Union-Find
 |  |
@@ -16,6 +18,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 ## Graph Coloring
 |  |
@@ -33,4 +36,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mriduls135790/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
