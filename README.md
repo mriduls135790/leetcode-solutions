@@ -40,4 +40,12 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
