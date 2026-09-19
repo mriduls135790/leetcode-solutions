@@ -6,11 +6,13 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Union-Find
 |  |
 | ------- |
@@ -20,6 +22,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -40,6 +43,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Array
 |  |
 | ------- |
@@ -48,4 +52,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
