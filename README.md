@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mriduls135790/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mriduls135790/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Geometry
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mriduls135790/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
