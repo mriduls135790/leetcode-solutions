@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -14,6 +15,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -100,11 +103,13 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mriduls135790/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mriduls135790/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -117,6 +122,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mriduls135790/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mriduls135790/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
