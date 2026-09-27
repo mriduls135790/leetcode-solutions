@@ -6,6 +6,7 @@
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -16,6 +17,7 @@
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
@@ -24,6 +26,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mriduls135790/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -82,6 +86,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## String
@@ -99,17 +104,20 @@
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mriduls135790/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mriduls135790/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -134,4 +142,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mriduls135790/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
