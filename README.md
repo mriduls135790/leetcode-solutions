@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -16,6 +17,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
@@ -26,6 +28,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -66,6 +69,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
+| [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
@@ -75,6 +79,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
@@ -93,6 +98,7 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
@@ -155,4 +161,8 @@
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
