@@ -98,6 +98,7 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -165,4 +166,8 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
