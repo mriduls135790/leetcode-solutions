@@ -97,6 +97,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -157,10 +158,12 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
