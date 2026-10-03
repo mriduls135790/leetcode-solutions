@@ -12,6 +12,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -34,6 +35,7 @@
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -43,6 +45,7 @@
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mriduls135790/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mriduls135790/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
@@ -53,6 +56,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +88,7 @@
 | [0001-two-sum](https://github.com/mriduls135790/leetcode-solutions/tree/master/0001-two-sum) |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
