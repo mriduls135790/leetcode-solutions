@@ -112,6 +112,7 @@
 | [0032-longest-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
@@ -148,6 +149,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mriduls135790/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mriduls135790/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -175,6 +177,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -182,6 +185,7 @@
 | [0020-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
 |  |
@@ -191,4 +195,8 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
