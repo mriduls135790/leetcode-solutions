@@ -19,6 +19,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0210-course-schedule-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/mriduls135790/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
@@ -111,6 +112,7 @@
 | [0022-generate-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/mriduls135790/leetcode-solutions/tree/master/0721-accounts-merge) |
@@ -122,6 +124,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/0126-word-ladder-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Bidirectional Search
 |  |
 | ------- |
