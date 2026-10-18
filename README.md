@@ -37,6 +37,7 @@
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mriduls135790/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mriduls135790/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mriduls135790/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Geometry
@@ -82,6 +84,7 @@
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/mriduls135790/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mriduls135790/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -173,6 +176,7 @@
 | [0678-valid-parenthesis-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mriduls135790/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/mriduls135790/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/mriduls135790/leetcode-solutions/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -255,4 +259,32 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mriduls135790/leetcode-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/mriduls135790/leetcode-solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
