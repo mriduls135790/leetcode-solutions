@@ -64,6 +64,7 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/mriduls135790/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/mriduls135790/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mriduls135790/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mriduls135790/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/mriduls135790/leetcode-solutions/tree/master/3886-sum-of-sortable-integers) |
@@ -143,6 +144,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/mriduls135790/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/mriduls135790/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2409-count-days-spent-together](https://github.com/mriduls135790/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
