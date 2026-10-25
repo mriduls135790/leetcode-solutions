@@ -13,6 +13,7 @@
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/mriduls135790/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -28,6 +29,7 @@
 | [0802-find-eventual-safe-states](https://github.com/mriduls135790/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mriduls135790/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -37,6 +39,7 @@
 | [0785-is-graph-bipartite](https://github.com/mriduls135790/leetcode-solutions/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/mriduls135790/leetcode-solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/mriduls135790/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -86,6 +89,7 @@
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mriduls135790/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mriduls135790/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -126,6 +130,7 @@
 | [0778-swim-in-rising-water](https://github.com/mriduls135790/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/mriduls135790/leetcode-solutions/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/mriduls135790/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/mriduls135790/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/mriduls135790/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## String
 |  |
