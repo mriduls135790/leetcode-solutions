@@ -68,6 +68,7 @@
 | [0836-rectangle-overlap](https://github.com/mriduls135790/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/mriduls135790/leetcode-solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/mriduls135790/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/mriduls135790/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/mriduls135790/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mriduls135790/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mriduls135790/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/mriduls135790/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/mriduls135790/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
